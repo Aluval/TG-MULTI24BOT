@@ -9,11 +9,11 @@ from helper.text import txt
 async def start_message(bot, message):
     await add_user(bot, message)    
     button=InlineKeyboardMarkup([[
-        InlineKeyboardButton("🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/BETA_SUPPORT"),
-        InlineKeyboardButton("📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒", url="https://t.me/Beta_BoTZ")
+        InlineKeyboardButton("🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/sunriseseditsoffical6"),
+        InlineKeyboardButton("📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒", url="https://t.me/Sunrises_Bot_discussion_Group")
         ],[            
-        InlineKeyboardButton("ℹ️ ʜᴇʟᴩ", callback_data="help"),
-        InlineKeyboardButton("📡 ᴀʙᴏᴜᴛ", callback_data="about") 
+        InlineKeyboardButton("💌 𝐇𝐄𝐋𝐏 💌", callback_data="help"),
+        InlineKeyboardButton("🌟 𝐀𝐁𝐎𝐔𝐓 🌟", callback_data="about") 
     ]])
         
     if PICS:
@@ -49,8 +49,8 @@ async def media_info(bot, m):
                                         
     if not md:
         buttons = [[
-            InlineKeyboardButton("✨️ Support", url="https://t.me/BETA_SUPPORT"),
-            InlineKeyboardButton("📢 Updates", url="https://t.me/Beta_BoTZ")
+            InlineKeyboardButton("🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/sunriseseditsoffical6"),
+            InlineKeyboardButton("📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒", url="https://t.me/Sunrises_Bot_discussion_Group")
         ]]       
         mkn = await m.reply("please wait....")
         if ff.photo:
