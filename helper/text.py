@@ -1,16 +1,16 @@
 
 class txt(object):
-    STAT = """Hello {} 👋🏻
-I'am A Multi use Bot with many usefull features.
-Eg:- Telegarph, Channel ID, Image editor etc... """
+    STAT = """Hᴇʟʟᴏ {} 👋🏻
+I'ᴍ A Mᴜʟᴛɪ ᴜsᴇ Bᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.⚡
+Exᴀᴍᴘʟᴇ :- Tᴇʟᴇɢᴀʀᴘʜ, Cʜᴀɴɴᴇʟ ID, Iᴍᴀɢᴇ ᴇᴅɪᴛᴏʀ , YᴏᴜTᴜʙᴇ Vɪᴅᴇᴏ's Dᴏᴡɴʟᴏᴀᴅᴇʀ ,ᴇᴛᴄ."""
 
     ABT = """ 
 ╔════❰ TG MULTI 𝟸𝟺 BOT✨ ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼🤖𝐌𝐘 𝐍𝐀𝐌𝐄 : {bot}
-║┣⪼🧑🏻‍💻𝐂𝐑𝐄𝐀𝐓𝐎𝐑 : <a href=https://t.me/about_jeol>ᴊᴇᴏʟ</a>
-║┣⪼🎬𝐂𝐇𝐀𝐍𝐍𝐄𝐋 : <a href=https://t.me/mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-║┣⪼📢𝐔𝐏𝐃𝐀𝐓𝐄𝐒  : <a href=https://github.com/Itz-JEOL/TG-MULTI-BOT>ᴛɢ-ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
+║┣⪼🧑🏻‍💻𝐂𝐑𝐄𝐀𝐓𝐎𝐑 : <a href=https://t.me/SUNRISES_24>𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝐇𝐀𝐑𝐒𝐇𝐀✨</a>
+║┣⪼🎬𝐂𝐇𝐀𝐍𝐍𝐄𝐋 : <a href=https://t.me/sunriseseditsoffical6>𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝐄𝐃𝐈𝐓𝐒 𝐎𝐅𝐅𝐈𝐂𝐀𝐋</a>
+║┣⪼📢𝐔𝐏𝐃𝐀𝐓𝐄𝐒  : <a href=https://t.me/Sunrises_Bot_discussion_Group>𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒™</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍ """
 
@@ -29,8 +29,8 @@ media = [photo, video, audio, documents, sticker]"""
    
     FUN = """<b><u>JUST TEST THIS COMMANDS 😉</u></b>
 
-◉ /runs         
-◉ /ikka      
+    
+     
 ◉ /dice     
 ◉ /arrow    
 ◉ /goal    
@@ -82,7 +82,7 @@ To Make Square Logo -  /logosq Your Name
 
 ♻️ Example:
 /logo BETA
-/logosq MKN  """
+/logosq 𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 """
 
     YTDL = """<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
 
@@ -115,12 +115,7 @@ Translate text to speech
 • These commands works on both pm and group.
 • this can translate texts to 200+ languages."""
 
-    SOURCE = """[Github](https://github.com/Itz-JEOL/TG-MULTI-BOT) | [Updates](t.me/beta_botz)
-```----------------
-| Contributors |
-----------------```
-
-{dev} """
+    
 
     INFO_TXT = """<i>
 <u>👁️‍🗨️YOUR DETAILS</u>
