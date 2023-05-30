@@ -95,7 +95,7 @@ To Make Square Logo -  /logosq Your Name
 • /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 • /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/song mkn</code>
+<code>/song Sunrises</code>
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  """
   
