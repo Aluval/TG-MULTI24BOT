@@ -25,17 +25,17 @@ async def callback(client: Client, query: CallbackQuery):
        await query.message.edit(
            text = tg.STAT.format(query.from_user.mention),        
            reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton("🍁 ꜱᴜᴩᴩᴏʀᴛ", url="https://t.me/BETA_SUPPORT"),
-               InlineKeyboardButton("📯 ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/Beta_BoTZ")
+               InlineKeyboardButton("🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/sunriseseditsoffical6"),
+               InlineKeyboardButton("📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒", url="https://t.me/Sunrises_Bot_discussion_Group")
                ],[            
-               InlineKeyboardButton("ℹ️ ʜᴇʟᴩ", callback_data="help"),
-               InlineKeyboardButton("📡 ᴀʙᴏᴜᴛ", callback_data="about") 
+               InlineKeyboardButton("💌 𝐇𝐄𝐋𝐏 💌", callback_data="help"),
+               InlineKeyboardButton("🌟 𝐀𝐁𝐎𝐔𝐓 🌟", callback_data="about") 
                ]]
                )
        )
     elif query.data == "help":
         buttons = [[                           
-            InlineKeyboardButton('🍁 ɪɴꜰᴏ & ɪᴅ 🍁', callback_data='info')
+            InlineKeyboardButton('⚡ ɪɴꜰᴏ & ɪᴅ ⚡', callback_data='info')
             ],[
             InlineKeyboardButton('ʟᴏɢᴏ ᴍᴀᴋᴇʀ', callback_data='logomake'),            
             InlineKeyboardButton('ᴛᴇʟᴇɢʀᴀᴩʜ', callback_data='tgraph')
@@ -52,10 +52,10 @@ async def callback(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴄᴀʀʙᴏɴ', callback_data='carben'),
             InlineKeyboardButton('ꜰᴜɴ ɢᴀᴍᴇ', callback_data='fun')                      
             ],[
-            InlineKeyboardButton('❤️‍🔥 ꜱᴏᴜʀᴄᴇ', callback_data='source'),
-            InlineKeyboardButton('📡 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('💖𝐀𝐃𝐌𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓', url="https://t.me/SH24_AdminBot"),
+            InlineKeyboardButton('🌟 𝐀𝐁𝐎𝐔𝐓 🌟', callback_data='about')
             ],[
-            InlineKeyboardButton('⏮️ ʙᴀᴄᴋ', callback_data='start'),           
+            InlineKeyboardButton('🔙 𝐁𝐀𝐂𝐊', callback_data='start'),           
         ]]
         await query.message.edit_text(                     
             text=tg.HELP,
@@ -65,8 +65,8 @@ async def callback(client: Client, query: CallbackQuery):
     
     elif query.data == "info":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.INFO,
@@ -76,8 +76,8 @@ async def callback(client: Client, query: CallbackQuery):
        )       
     elif query.data == "logomake":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.LOGO,
@@ -87,8 +87,8 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "tgraph":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.TELE,
@@ -98,8 +98,8 @@ async def callback(client: Client, query: CallbackQuery):
        )   
     elif query.data == "tts":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.TTS,
@@ -109,8 +109,8 @@ async def callback(client: Client, query: CallbackQuery):
        )   
     elif query.data == "ytdl":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.YTDL,
@@ -120,8 +120,8 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "phediter":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.IMAGE,
@@ -131,8 +131,8 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "paster":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.PASTE,
@@ -142,8 +142,8 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "carben":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.CARB_TXT,
@@ -153,8 +153,8 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "stickertool":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.STICKER,
@@ -164,8 +164,8 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "fontstyle":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]    
        await query.message.edit(
            text=tg.FONT,
@@ -175,8 +175,8 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "fun":
        buttons = [[
-           InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="help"),
-           InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
+           InlineKeyboardButton("🔙 𝐁𝐀𝐂𝐊", callback_data="help"),
+           InlineKeyboardButton("⛔ 𝐂𝐋𝐎𝐒𝐄", callback_data="close")
        ]]               
        await query.message.edit(
            text=tg.FUN,
@@ -186,7 +186,7 @@ async def callback(client: Client, query: CallbackQuery):
        )    
     elif query.data == "about":       
        buttons = [[
-           InlineKeyboardButton("❤️‍🔥 ᴅᴇᴠᴇʟᴏᴩᴇʀꜱ ❤️‍🔥", callback_data="source")  
+           InlineKeyboardButton("💖𝐀𝐃𝐌𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url="https://t.me/SH24_AdminBot"),  
            ],[        
            InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="start"),
            InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
