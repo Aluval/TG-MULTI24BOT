@@ -5,17 +5,16 @@ I'am A Multi use Bot with many usefull features.
 Eg:- Telegarph, Channel ID, Image editor etc... """
 
     ABT = """ 
-╔════❰ 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 ❱═❍
+╔════❰ TG MULTI 𝟸𝟺 BOT✨ ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {bot}
-║┣⪼👦ᴅᴇᴠ 1 : <a href=https://t.me/about_jeol>ᴊᴇᴏʟ</a>
-║┣⪼👨‍💻ᴅᴇᴠ 2 : <a href=https://t.me/mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-║┣⪼❣️sᴏᴜʀᴄᴇ ᴄᴏᴅ : <a href=https://github.com/Itz-JEOL/TG-MULTI-BOT>ᴛɢ-ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
-║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ3</a>
-║┣⪼📚ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
-║┣⪼🗒️ᴠᴇʀsɪᴏɴ : 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 v3.0.1 
+║┣⪼🤖𝐌𝐘 𝐍𝐀𝐌𝐄 : {bot}
+║┣⪼🧑🏻‍💻𝐂𝐑𝐄𝐀𝐓𝐎𝐑 : <a href=https://t.me/about_jeol>ᴊᴇᴏʟ</a>
+║┣⪼🎬𝐂𝐇𝐀𝐍𝐍𝐄𝐋 : <a href=https://t.me/mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+║┣⪼📢𝐔𝐏𝐃𝐀𝐓𝐄𝐒  : <a href=https://github.com/Itz-JEOL/TG-MULTI-BOT>ᴛɢ-ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍ """
+
+
 
     HELP = """𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
