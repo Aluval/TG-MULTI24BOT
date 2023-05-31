@@ -1,18 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
-
-
- ![github card](https://github-readme-stats.vercel.app/api/pin/?username=itz-jeol&repo=TG-MULTI-BOT&theme=dark) 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <a href="https://github.com/itz-jeoll"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+A+MULTI+BOT+WITH+MANY+FEATURES😀;FORK+ME+AND+DEPLOY+NOW😼;SUPPORT+US+BY+GIVING+A+STAR⭐;Developed+By+MR+MKN+AND+JEOL" alt="UwU">
-</p>
-
-### What is this bot
 
 This is a pyrogram based telegram bot. Telagram user id, info, telegraph, stickerid, fun, etc....
 
@@ -62,9 +47,4 @@ This is a pyrogram based telegram bot. Telagram user id, info, telegraph, sticke
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-## Support & Updates 
-<a href="https://t.me/BETA_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/BETA_BOTZ"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
